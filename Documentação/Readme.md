@@ -1,8 +1,12 @@
-# Tópico em Java e Orientação a Objetos - SERIALIZAÇÃO
+# Serialização
+
+A serialização é um conceito essencial na programação orientada a objetos (POO) em Java.
 
 ## Material Didático
 
-### Slide + PDF
+ Aqui consta todo o material didático sobre Serialização.
+ 
+### Slide e PDF
 
 * Slide - 
 
