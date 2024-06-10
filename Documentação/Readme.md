@@ -6,15 +6,12 @@ A serialização é um conceito essencial na programação orientada a objetos (
 
  Aqui consta todo o material didático sobre Serialização.
  
-### Slide e PDF
+### Slide
 
-* Slide - 
+* [Trabalho de Programação Modular Serialização (1).pdf](https://github.com/user-attachments/files/15755785/Trabalho.de.Programacao.Modular.Serializacao.1.pdf)
 
-* PDF - 
 
 ### Exercícios Práticos (PDF)
 
-* [Exercício 01]()
-* [Exercício 02]()
+* [Exercicios Serialização.pdf](https://github.com/user-attachments/files/15755788/Exercicios.Serializacao.pdf)
 
-### Código Java com a solução das atividades
